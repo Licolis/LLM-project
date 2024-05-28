@@ -1,4 +1,4 @@
-Project：Integrating domain-specific data into pre-trained models to improve model performance in the field.
+# Project：Integrating domain-specific data into pre-trained models to improve model performance in the field.
 
 #You can run LMS(LM Studio) and Anything-LLM locally ,or deploy them to the cloud.  
 1.Download LMS   
