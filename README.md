@@ -1,2 +1,9 @@
-將特定專業領域的資料整合至預訓練模型中，以提升模型在該領域的應用表現。
-![圖片描述](images/AnyConv.com___922ea22c-3c61-4713-8ebd-1debbb687053.png)
+Project：Integrating domain-specific data into pre-trained models to improve model performance in the field.
+
+#You can run LMS(LM Studio) and Anything-LLM locally ,or deploy them to the cloud.
+1.Download LMS 
+2.Select and download pre-trained models on LMS.
+3.Integrate domain-specific data into pre-trained model and adjust the prompts of model.
+4.Obtain the API for a customized pre-trained model.
+5.Download Anything-LLM
+6.Use the API created on the LMS to configure the settings for Anything-LLM
