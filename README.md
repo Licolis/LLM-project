@@ -6,4 +6,5 @@
 3.Integrate domain-specific data into pre-trained model and adjust the prompts of model.  
 4.Obtain the API for a customized pre-trained model.  
 5.Download Anything-LLM  
-6.Use the API created on the LMS to configure the settings for Anything-LLM  
+6.Use the API created on the LMS to configure the settings for Anything-LLM   
+7.Start using the LLM that has been integrated with domain-specific data.
