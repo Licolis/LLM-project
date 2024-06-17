@@ -8,3 +8,4 @@
 5.Download Anything-LLM.  
 6.Use the API created on the LMS to configure the settings for Anything-LLM.   
 7.Start using the LLM that has been integrated with domain-specific data.
+
